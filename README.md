@@ -5,7 +5,7 @@
 * C++ Program to Find Mean and Variance using header files and function overloading. We will learn how to create header files and use them in our program. We will also learn how to use the functions defined in the header file in our program. This is our topic:
 ![image](https://user-images.githubusercontent.com/96127451/195223465-05b9daae-9b32-4b38-b298-f976bf015848.png)
 
-* With this topic, my group create 4 files in this repository to solve.
+* With this topic, there are 4 files in this repository to solve.
 The "Readme.MD" is this file, describe all other files.
 The first file is "Tuto3.cpp", it contains the main function.
 The second file is "statistics.cpp", which includes the function declaration
